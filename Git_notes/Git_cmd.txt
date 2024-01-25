@@ -1,0 +1,11 @@
+
+Comomands:
+1. Git init : 
+2. git add  :
+
+
+
+
+Once our code is ready 
+# we need "add" Files go in to Staging Area ;
+# And then "commit" in to the local repositiry (local) ;
